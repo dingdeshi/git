@@ -1,2 +1,3 @@
 this is a test file
 try the git status
+try the git diff
