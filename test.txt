@@ -4,8 +4,4 @@ try the git diff
 
 oh let's try the amazing git
 
-<<<<<<< HEAD
-i want buy a cheap car
-=======
 i want buy a expensive car
->>>>>>> gg
